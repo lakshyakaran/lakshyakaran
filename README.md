@@ -6,13 +6,13 @@ As a Software Developer i create innovative and user-friendly mobile and web app
 
 Reach me via [Email](lakshyakaran@gmail.com) or [Linkedin](https://www.linkedin.com/in/lakshyakaran/). 😊
 
-🟢 React[]
-🟢 React Native[]
-🟢 Javascript
-🟢 HTML
-🟢 CSS
-🟢 Redux
-🟢 Redux ToolKit
-🟢 Books 📚
-🟢 Movies 🎥
-🟢 Memes / Jokes / Sarcasm 🙃
+🟢 React<br />
+🟢 React Native<br />
+🟢 Javascript<br />
+🟢 HTML<br />
+🟢 CSS<br />
+🟢 Redux<br />
+🟢 Redux ToolKit<br />
+🟢 Books 📚<br />
+🟢 Movies 🎥<br />
+🟢 Memes / Jokes / Sarcasm 🙃 <br />
