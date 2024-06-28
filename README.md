@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**lakshyakaran/lakshyakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is ✨Lakshya Karan✨ and I am a Software Developer, currently working as FrontEnd developer using React js.
 
-Here are some ideas to get you started:
+As a Software Developer i create innovative and user-friendly mobile and web applications for various industries, using React, and JavaScript. I am passionate about learning new technologies and solving complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me via [Email](lakshyakaran@gmail.com) or Linkedin(https://www.linkedin.com/in/lakshyakaran/). 😊
+
+🟢 React
+🟢 React Native
+🟢 Javascript
+🟢 HTML
+🟢 CSS
+🟢 Redux
+🟢 Redux ToolKit
+🟢 Books 📚
+🟢 Movies 🎥
+🟢 Memes / Jokes / Sarcasm 🙃
